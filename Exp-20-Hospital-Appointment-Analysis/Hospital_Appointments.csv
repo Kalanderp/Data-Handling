@@ -1,0 +1,6 @@
+﻿Patient_ID,Age,Waiting_Time,Appointment_Status
+1,25,2,Attended
+2,40,5,Missed
+3,35,1,Attended
+4,50,7,Missed
+5,29,3,Attended

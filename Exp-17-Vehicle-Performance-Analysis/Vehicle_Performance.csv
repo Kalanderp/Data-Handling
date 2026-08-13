@@ -1,0 +1,6 @@
+﻿Vehicle_ID,Engine_Size,Horsepower,Fuel_Efficiency,Top_Speed,Safety_Rating
+V1,1.5,110,18,180,4
+V2,2,150,15,200,5
+V3,3,250,12,250,5
+V4,2.5,200,14,220,4
+V5,1.8,130,17,190,3
