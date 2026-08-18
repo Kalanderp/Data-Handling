@@ -1,0 +1,6 @@
+Order_ID,Items_Ordered,Bill_Amount,Dining_Type
+1,2,25,Dine-In
+2,5,60,Takeaway
+3,3,35,Dine-In
+4,4,50,Delivery
+5,2,20,Takeaway
